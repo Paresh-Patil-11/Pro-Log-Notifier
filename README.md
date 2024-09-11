@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<body>
+<body> 
     <h1>ProLogNotifier</h1>
     <p>ProLogNotifier is a sophisticated GUI-based application designed for monitoring and logging active processes in system RAM. It efficiently generates detailed log files and automatically dispatches them to a designated email address.</p>
     <h2>Features</h2> 
